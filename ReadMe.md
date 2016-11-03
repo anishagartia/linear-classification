@@ -1,7 +1,4 @@
-CS 7616
-HW1
-Student: Anisha Gartia
-GTID 903136557
+# Linear Clasification and Subspaces
 
 -Language of coding: Python
 -Each cell of Jupyter Notebook is one of PCA, LDA and Naive Baye's.

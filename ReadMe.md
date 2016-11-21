@@ -1,4 +1,4 @@
-# Linear Clasification and Subspaces
+# Linear Classification and Subspaces
 
 -Language of coding: Python
 -Each cell of Jupyter Notebook is one of PCA, LDA and Naive Baye's.
